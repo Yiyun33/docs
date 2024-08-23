@@ -35,7 +35,7 @@ This how-to teaches you how to do the following:
 * Add to and edit existing documentation
 * Create new documentation
 
-## Prerequisites
+## Prerequisites {#test}
 
 Before starting with this how-to, make sure you have completed the following prerequisites:
 
